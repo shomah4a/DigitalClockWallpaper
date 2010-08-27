@@ -20,6 +20,8 @@ default.properties
 .git
 .hg
 .svn
+bin/*
+gen/*
 emacs/site-lisp/lookup
 emacs/site-lisp/ecb*
 
